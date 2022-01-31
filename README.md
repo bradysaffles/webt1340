@@ -6,7 +6,7 @@
     <li><a href="Project1/Icons.2.ai">Project 1 - Portfolio Builder</a></li>
 </ul>
 
-<h3>Project 3</h3>
+<h2>Project 3</h2>
 <ul>
     <li><a href="Project3/cafe-logo.ai">Project 3 - Chapter Work</a></li>
     <li><a href="Project3/stationary.ai">Project 3 - Chapter Work</a></li>
