@@ -15,3 +15,10 @@
     <li><a href="Project3/Cincinnati zoo.ai">Project 3 - Portfolio Builder</a></li>
     <li><a href="Project3/Cincinnati zoo icons.ai">Project 3 - Portfolio Builder</a></li>
 </ul>
+
+<h2>Project 5</h2>
+<ul>
+    <li><a href="Project5/aos-brochure.ai">Project 5 - Chapter Work</a></li>
+    <li><a href="Project5/Finished Culture Brochure">Project 5 - Chapter Work</a></li>
+    <li><a href="Project5/aos-brochure part 2.ai">Project 5 - Portfolio Builder</a></li>
+    <li><a href="Project5/Finished Culture Brochure 2">Project 5 - Portfolio Builder</a></li>
