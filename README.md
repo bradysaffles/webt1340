@@ -30,4 +30,6 @@
     <li><a href="Project7/reasons-graph.ai">Project 7 - Chapter Work</a></li>
     <li><a href="Project7/favorites-graph.ai">Project 7 - Chapter Work</a></li>
     <li><a href="Project7/coffee-producers.ai">Project 7 - Chapter Work</a></li>
+    <li><a href="Project7/Energy production-graph.ai">Project 7 - Portfolio Builder</a></li>
+    <li><a href="Project7/Energy consumption-graph.ai">Project 7 - Portfolio Builder</a></li>
 </ul>
