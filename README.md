@@ -33,3 +33,8 @@
     <li><a href="Project7/Energy production-graph.ai">Project 7 - Portfolio Builder</a></li>
     <li><a href="Project7/Energy consumption-graph.ai">Project 7 - Portfolio Builder</a></li>
 </ul>
+
+<h2>Project 8</h2>
+<ul>
+    <li><a href="Project8/Website Interface.ai">Project 8 - Chapter Work</a></li>
+</ul>
