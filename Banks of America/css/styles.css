@@ -4,7 +4,6 @@ img {
     display: block;
     margin: 0 auto;
     width: 100%;
-    color: #E6DDDD;
 }
 
 h2, h3, footer {
@@ -87,13 +86,15 @@ main {
 }
 
 #image_gallery img {
+    width: 99.5%;
     margin: 10px 0;
-    border-color: #E6DDDD;
+    border: 1px solid #E6DDDD;
 }
 
 footer {
     padding: 40px 0;
     border-top: 2px solid #F86315;
+    text-align: center;
 }
 
 /* End Mobile Styles */
@@ -108,7 +109,8 @@ footer {
     header img {
         float: left;
         width: 30%;
-        margin-left: 50px;
+        margin-left: 85px;
+        margin-top: -33px;
     }
 
     header h1 {
@@ -132,14 +134,13 @@ footer {
     }
 
     #image_gallery img {
-        width: 47.4%;
+        width: 47.2%;
         margin: 10px;
-        color: #E6DDDD;
+        border: 1px solid #E6DDDD;
     }
 
     footer {
         background-color: #F86315;
-        color: #E6DDDD;
     }
 }
 
@@ -149,8 +150,11 @@ footer {
 
 @media (min-width: 1024px) {
     header img {
+        float: left;
         width: 20%;
         margin-left: 150px;
+        margin-top: -97px;
+        margin-right: -288px;
     }
 
     header h1 {
@@ -164,13 +168,13 @@ footer {
     }
 
     #image_gallery img {
-        width: 31.8%;
+        width: 31.4%;
         margin: 10px;
+        border: 1px solid #E6DDDD;
     }
 
     footer {
         background-color: #F86315;
-        color: #E6DDDD;
     }
 }
 
